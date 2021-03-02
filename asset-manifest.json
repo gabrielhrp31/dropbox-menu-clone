@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.8a97b120.chunk.js",
-    "main.js.map": "/static/js/main.8a97b120.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3c076fa6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3c076fa6.js.map",
-    "static/js/2.c9502e6f.chunk.js": "/static/js/2.c9502e6f.chunk.js",
-    "static/js/2.c9502e6f.chunk.js.map": "/static/js/2.c9502e6f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/js/2.c9502e6f.chunk.js.LICENSE.txt": "/static/js/2.c9502e6f.chunk.js.LICENSE.txt"
+    "main.js": "/dropbox-menu-clone/static/js/main.8a97b120.chunk.js",
+    "main.js.map": "/dropbox-menu-clone/static/js/main.8a97b120.chunk.js.map",
+    "runtime-main.js": "/dropbox-menu-clone/static/js/runtime-main.7f84ee90.js",
+    "runtime-main.js.map": "/dropbox-menu-clone/static/js/runtime-main.7f84ee90.js.map",
+    "static/js/2.02480504.chunk.js": "/dropbox-menu-clone/static/js/2.02480504.chunk.js",
+    "static/js/2.02480504.chunk.js.map": "/dropbox-menu-clone/static/js/2.02480504.chunk.js.map",
+    "index.html": "/dropbox-menu-clone/index.html",
+    "static/js/2.02480504.chunk.js.LICENSE.txt": "/dropbox-menu-clone/static/js/2.02480504.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c076fa6.js",
-    "static/js/2.c9502e6f.chunk.js",
+    "static/js/runtime-main.7f84ee90.js",
+    "static/js/2.02480504.chunk.js",
     "static/js/main.8a97b120.chunk.js"
   ]
 }
